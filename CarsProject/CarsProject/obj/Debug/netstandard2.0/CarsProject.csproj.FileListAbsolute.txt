@@ -1,0 +1,8 @@
+c:\c_sharp_training_lds\CarsProject\CarsProject\bin\Debug\netstandard2.0\CarsProject.deps.json
+c:\c_sharp_training_lds\CarsProject\CarsProject\bin\Debug\netstandard2.0\CarsProject.dll
+c:\c_sharp_training_lds\CarsProject\CarsProject\bin\Debug\netstandard2.0\CarsProject.pdb
+c:\c_sharp_training_lds\CarsProject\CarsProject\obj\Debug\netstandard2.0\CarsProject.csproj.CoreCompileInputs.cache
+c:\c_sharp_training_lds\CarsProject\CarsProject\obj\Debug\netstandard2.0\CarsProject.AssemblyInfoInputs.cache
+c:\c_sharp_training_lds\CarsProject\CarsProject\obj\Debug\netstandard2.0\CarsProject.AssemblyInfo.cs
+c:\c_sharp_training_lds\CarsProject\CarsProject\obj\Debug\netstandard2.0\CarsProject.dll
+c:\c_sharp_training_lds\CarsProject\CarsProject\obj\Debug\netstandard2.0\CarsProject.pdb

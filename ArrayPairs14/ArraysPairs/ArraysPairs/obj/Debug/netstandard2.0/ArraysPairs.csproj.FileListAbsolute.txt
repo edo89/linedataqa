@@ -1,0 +1,9 @@
+C:\c_sharp_training_lds\ArrayPairs14\ArraysPairs\ArraysPairs\bin\Debug\netstandard2.0\ArraysPairs.deps.json
+C:\c_sharp_training_lds\ArrayPairs14\ArraysPairs\ArraysPairs\bin\Debug\netstandard2.0\ArraysPairs.dll
+C:\c_sharp_training_lds\ArrayPairs14\ArraysPairs\ArraysPairs\bin\Debug\netstandard2.0\ArraysPairs.pdb
+C:\c_sharp_training_lds\ArrayPairs14\ArraysPairs\ArraysPairs\obj\Debug\netstandard2.0\ArraysPairs.csprojAssemblyReference.cache
+C:\c_sharp_training_lds\ArrayPairs14\ArraysPairs\ArraysPairs\obj\Debug\netstandard2.0\ArraysPairs.csproj.CoreCompileInputs.cache
+C:\c_sharp_training_lds\ArrayPairs14\ArraysPairs\ArraysPairs\obj\Debug\netstandard2.0\ArraysPairs.AssemblyInfoInputs.cache
+C:\c_sharp_training_lds\ArrayPairs14\ArraysPairs\ArraysPairs\obj\Debug\netstandard2.0\ArraysPairs.AssemblyInfo.cs
+C:\c_sharp_training_lds\ArrayPairs14\ArraysPairs\ArraysPairs\obj\Debug\netstandard2.0\ArraysPairs.dll
+C:\c_sharp_training_lds\ArrayPairs14\ArraysPairs\ArraysPairs\obj\Debug\netstandard2.0\ArraysPairs.pdb

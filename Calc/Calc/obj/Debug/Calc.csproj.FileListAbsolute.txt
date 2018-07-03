@@ -1,0 +1,6 @@
+c:\c_sharp_training_lds\Calc\Calc\bin\Debug\Calc.dll
+c:\c_sharp_training_lds\Calc\Calc\bin\Debug\Calc.pdb
+c:\c_sharp_training_lds\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+c:\c_sharp_training_lds\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+c:\c_sharp_training_lds\Calc\Calc\obj\Debug\Calc.dll
+c:\c_sharp_training_lds\Calc\Calc\obj\Debug\Calc.pdb

@@ -1,0 +1,9 @@
+C:\c_sharp_training_lds\Shapes12\ShapeProject\ShapeProject\bin\Debug\netstandard2.0\ShapeProject.deps.json
+C:\c_sharp_training_lds\Shapes12\ShapeProject\ShapeProject\bin\Debug\netstandard2.0\ShapeProject.dll
+C:\c_sharp_training_lds\Shapes12\ShapeProject\ShapeProject\bin\Debug\netstandard2.0\ShapeProject.pdb
+C:\c_sharp_training_lds\Shapes12\ShapeProject\ShapeProject\obj\Debug\netstandard2.0\ShapeProject.csprojAssemblyReference.cache
+C:\c_sharp_training_lds\Shapes12\ShapeProject\ShapeProject\obj\Debug\netstandard2.0\ShapeProject.csproj.CoreCompileInputs.cache
+C:\c_sharp_training_lds\Shapes12\ShapeProject\ShapeProject\obj\Debug\netstandard2.0\ShapeProject.AssemblyInfoInputs.cache
+C:\c_sharp_training_lds\Shapes12\ShapeProject\ShapeProject\obj\Debug\netstandard2.0\ShapeProject.AssemblyInfo.cs
+C:\c_sharp_training_lds\Shapes12\ShapeProject\ShapeProject\obj\Debug\netstandard2.0\ShapeProject.dll
+C:\c_sharp_training_lds\Shapes12\ShapeProject\ShapeProject\obj\Debug\netstandard2.0\ShapeProject.pdb

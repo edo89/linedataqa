@@ -1,0 +1,9 @@
+C:\c_sharp_training_lds\Tax13\TaxProject\TaxProject\bin\Debug\netstandard2.0\TaxProject.deps.json
+C:\c_sharp_training_lds\Tax13\TaxProject\TaxProject\bin\Debug\netstandard2.0\TaxProject.dll
+C:\c_sharp_training_lds\Tax13\TaxProject\TaxProject\bin\Debug\netstandard2.0\TaxProject.pdb
+C:\c_sharp_training_lds\Tax13\TaxProject\TaxProject\obj\Debug\netstandard2.0\TaxProject.csprojAssemblyReference.cache
+C:\c_sharp_training_lds\Tax13\TaxProject\TaxProject\obj\Debug\netstandard2.0\TaxProject.csproj.CoreCompileInputs.cache
+C:\c_sharp_training_lds\Tax13\TaxProject\TaxProject\obj\Debug\netstandard2.0\TaxProject.AssemblyInfoInputs.cache
+C:\c_sharp_training_lds\Tax13\TaxProject\TaxProject\obj\Debug\netstandard2.0\TaxProject.AssemblyInfo.cs
+C:\c_sharp_training_lds\Tax13\TaxProject\TaxProject\obj\Debug\netstandard2.0\TaxProject.dll
+C:\c_sharp_training_lds\Tax13\TaxProject\TaxProject\obj\Debug\netstandard2.0\TaxProject.pdb
